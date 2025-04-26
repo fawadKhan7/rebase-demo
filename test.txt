@@ -3,3 +3,5 @@ test from main
 test from feature
 (Today)
 new conflict testing
+(Today feature/one)
+today conflicts
